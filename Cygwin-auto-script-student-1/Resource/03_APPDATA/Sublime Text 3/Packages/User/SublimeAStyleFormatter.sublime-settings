@@ -1,0 +1,7 @@
+{
+	"options_default": {
+		"style": "k&r",
+		"indent": "spaces",
+		"indent-spaces": 4,
+	},
+}

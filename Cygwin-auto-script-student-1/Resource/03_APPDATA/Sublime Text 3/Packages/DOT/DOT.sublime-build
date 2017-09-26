@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "dot -Tpng -Gsize=500,1! -Gdpi=300 \"${file}\" -o \"${file_path}/${file_base_name}.png\" && explorer \"${file_base_name}.png\"",
+	//"cmd": [ "dot", "-Tpng", "-Gsize=500,1!", "-Gdpi=300","-o", "$file_base_name.png", "$file", ";", "explorer", "$file_base_name.png"],
+	"selector": "source.dot, source.gv"
+}

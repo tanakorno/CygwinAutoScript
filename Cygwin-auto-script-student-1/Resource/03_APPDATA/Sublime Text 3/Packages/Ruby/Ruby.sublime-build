@@ -1,0 +1,12 @@
+{
+	"shell_cmd": "ruby \"$file\"",
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.ruby",
+	"variants":
+	[
+		{
+			"name": "Run",
+			"shell_cmd": "run_script.bat ruby \"$file\""
+		}
+	]
+}

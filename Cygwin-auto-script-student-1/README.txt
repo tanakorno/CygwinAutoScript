@@ -1,0 +1,13 @@
+01_Cygwin
+02_1_Flowgorithm-1.12.1
+02_2_npp.6.9.2.Installer.exe
+02_3_Sublime_Text_x86_3114.exe
+03_APPDATA
+04_bin_folder
+05_setPATH.bat
+06_1_sublime_x64_context_menu.reg
+06_1_sublime_x86_context_menu.reg
+06_2_CygwinX86_bash_open_here_ENABLE.reg
+06_3_Open_command_window_here_ENABLE.reg
+06_4_Open_PowerShell_here_ENABLE.reg
+cygwinInit.sh

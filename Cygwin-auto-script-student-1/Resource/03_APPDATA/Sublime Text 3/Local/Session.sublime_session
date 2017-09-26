@@ -1,0 +1,1347 @@
+{
+	"folder_history":
+	[
+		"/D/Users/kk/Documents/cyghome"
+	],
+	"last_version": 3083,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 785.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"space",
+						"spaces"
+					],
+					[
+						"t",
+						"transparent"
+					],
+					[
+						"f",
+						"fillcolor"
+					],
+					[
+						"new",
+						"newNodePtr"
+					],
+					[
+						"head",
+						"headPtr"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"de",
+						"depth"
+					],
+					[
+						"d",
+						"dir_y"
+					],
+					[
+						"di",
+						"dir_y"
+					],
+					[
+						"c",
+						"curr_j"
+					],
+					[
+						"st",
+						"start"
+					],
+					[
+						"a",
+						"arrayStoreX"
+					],
+					[
+						"p",
+						"ptr_c"
+					],
+					[
+						"ptr",
+						"ptr_c"
+					],
+					[
+						"i",
+						"intToBin"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"n",
+						"numArray"
+					],
+					[
+						"nu",
+						"numArray2"
+					],
+					[
+						"num",
+						"numArray"
+					],
+					[
+						"b",
+						"BYTE_SIZE"
+					],
+					[
+						"m",
+						"MAX_BIT"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"OP",
+						"OP_IP_TO_UNSGN"
+					],
+					[
+						"r",
+						"result"
+					],
+					[
+						"u",
+						"unsigned"
+					],
+					[
+						"pr",
+						"prev"
+					],
+					[
+						"l",
+						"lname"
+					],
+					[
+						"fil",
+						"fileName"
+					],
+					[
+						"chr",
+						"first_char"
+					],
+					[
+						"C",
+						"CTRL_D"
+					],
+					[
+						"Ch",
+						"change"
+					],
+					[
+						"le",
+						"lenB"
+					],
+					[
+						"cur",
+						"curr_b"
+					],
+					[
+						"str",
+						"strlen"
+					],
+					[
+						"s",
+						"strrev"
+					],
+					[
+						"ge",
+						"getNum"
+					],
+					[
+						"out",
+						"outSuffix"
+					],
+					[
+						"tem",
+						"tempFileName"
+					],
+					[
+						"pow",
+						"pow_10d"
+					],
+					[
+						"max",
+						"maxDigit"
+					],
+					[
+						"po",
+						"pow_10"
+					],
+					[
+						"ma",
+						"maxDigit"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"e",
+						"encoded_c"
+					],
+					[
+						"mo",
+						"months"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 157.0,
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 549.0
+			},
+			"console":
+			{
+				"height": 176.0,
+				"history":
+				[
+					"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/student/HW07_1_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/112_HW07_1.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/student/HW07_1/112_HW07_1.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/student/HW07_1/HW07_1_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/student/HW07_1/helper.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/fillBoard.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/grader.c",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_2/grader/112_HW07_2.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_2/grader/grader.c",
+				"/D/Users/kk/Documents/cyghome/.bashrc",
+				"/D/Cloud/kk/Dropbox/bashScripts/olypiadIDE.sh",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/Lab07_1.c",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/*.J",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_3/student/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_3/student/helper.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_3/student/Makefile",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_3/student/HW07_3_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_3/student/112_HW07_3.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_2/key/HW07_2.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_2/student/112_HW07_2.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_2/student/HW07_2_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_2/student/Makefile",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_2/student/helper.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_2/student/main.c",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/Coding/graphViz/p_28_DeleteFromList.gv",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/Coding/graphViz/linkedList/linkedList.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/student/HW07_1/main.c",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/Coding/graphViz/p_22_InsertInOrder_justnewNode.gv",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/Coding/graphViz/p_22_InsertInOrder.gv",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/DOT.sublime-build",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/Coding/graphViz/p_22_InsertInOrder_justCurr.gv",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/Coding/graphViz/p_22_InsertInOrder_JustList.gv",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/Coding/graphViz/p_13_creatingList4.gv",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/struct/example.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/struct/readInput.c",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/Graphviz.sublime-build",
+				"/D/Cloud/kk/Dropbox/bashScripts/startCronCms.sh",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/struct/struct.c",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/genSol2_prefix.sh",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/in10.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/in09.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/in08.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/in07.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/in06.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/in05.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/in04.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/in03.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/in02.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/grader/in01.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/student/112_HW07_1.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/student/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_1/key/HW07_1.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_3/student/HW07_EX1_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_3/grader/grader.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/recursion/fibDepth.c",
+				"/D/Cloud/kk/Downloads/p2_reshape.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_3/student/HW07_3.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_3/student/HW07_2_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab07/HW07_3.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lec02/q4.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lec02/testFgets.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/midterm/containSameNumber.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/midterm/p1B.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/midterm/p2A.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/midterm/p3B.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/testBitWise.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/emptyArray.c",
+				"/D/Users/kk/Documents/cyghome/txxx.c",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/FileHeader.sublime-settings",
+				"/D/temp/204111/renamePdfWithTitle.sh",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204111/204111_2014_S01/04 Resources/Carnegie Mellon U - 15123 - Effective Programming in C and Unix/Spring09/renamePdfWithTitle.sh",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lec02/testPtr.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lec02/q1.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lec02/q3.c",
+				"/C/Users/kk/AppData/Local/Temp/SL4.c",
+				"/C/Users/kk/AppData/Local/Temp/SL3.c",
+				"/C/Users/kk/AppData/Local/Temp/SL1.c",
+				"/C/Users/kk/AppData/Local/Temp/SL2.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab05/HW05_1.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Assgn01/bitSwap.c",
+				"/D/Cloud/kk/Downloads/OperaFB/HW05_2_570510694.c",
+				"/D/Cloud/kk/Downloads/OperaFB/main.c",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/key/HW05/HW05_1.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab06/HW06_2.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/test/testPtr.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab06/06_input1.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab05/HW05_2.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab05/HW05_3.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab05/01.in",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab04/input.txt",
+				"/D/Cloud/kk/Downloads/OperaFB/HW04_2_570510644.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab04/4_2_input.txt",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/key/HW04/HW04_2_kk.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab04/4_2_output.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab04/HW04_2.c",
+				"/D/Cloud/kk/Downloads/OperaFB/HW04_3_570510629.c",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/grader_version/HW04_3/05.in",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/grader_version/HW04_3/genSol.sh",
+				"/D/Cloud/kk/Downloads/112_HW04_3.c",
+				"/D/Cloud/kk/Downloads/OperaFB/main_name.c",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/grader_version/HW04_1/genSol.sh",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+				"/D/home/kk/.bashrc",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/key/HW04/HW04_3.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/password.csv",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/grader_version/HW04_3/01.in",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/grader_version/HW04_3/02.in",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/grader_version/HW04_3/03.in",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/grader_version/HW04_3/04.in",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/key/HW04/HW04_1.c",
+				"/D/Users/kk/Documents/cyghome/cms_judge/cmsAddUser.sh",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab04/HW04_3_v2.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab04/HW04_3.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Quiz01/quiz01.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab04/HW04_1.c",
+				"/D/Cloud/kk/Downloads/OperaFB/HW03_3_570510651.c",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/SublimeAStyleFormatter/Default (Windows).sublime-keymap",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab03/HW03_1.c",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/key/HW03/HW03_1.c",
+				"/D/Users/kk/Documents/cyghome/park.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab03/HW03_2.c",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/key/HW03/HW03_3.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab03/HW03_1."
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"”",
+					"“",
+					"pad",
+					"++",
+					"pointer",
+					"∗",
+					"defa",
+					"line en",
+					"*bl",
+					"*br",
+					"*tr",
+					"*tl",
+					"b2",
+					"b1",
+					"printf",
+					"8",
+					"c++"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\"",
+					"*",
+					"*bottomLeft",
+					"*bottomRight",
+					"*topRight",
+					"*topLeft",
+					"b",
+					"a"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 255.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 157.0,
+				"selected_items":
+				[
+				],
+				"width": 490.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1528.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"py",
+						"python"
+					],
+					[
+						"h",
+						"head"
+					],
+					[
+						"filenam",
+						"file_name"
+					],
+					[
+						"de",
+						"deleteAll"
+					],
+					[
+						"n",
+						"newNode"
+					],
+					[
+						"c",
+						"createNode"
+					],
+					[
+						"r",
+						"revDigit3"
+					],
+					[
+						"pow",
+						"pow10"
+					],
+					[
+						"re",
+						"result"
+					],
+					[
+						"st",
+						"starIndex"
+					],
+					[
+						"s",
+						"starIndex"
+					],
+					[
+						"pw",
+						"pow2"
+					],
+					[
+						"node",
+						"node_t"
+					],
+					[
+						"dep",
+						"dept_count"
+					],
+					[
+						"a",
+						"average"
+					],
+					[
+						"do",
+						"double"
+					],
+					[
+						"sc",
+						"student_record"
+					],
+					[
+						"stu",
+						"student_t"
+					],
+					[
+						"in",
+						"in_file_name"
+					],
+					[
+						"fi",
+						"file_name"
+					],
+					[
+						"f",
+						"frequency"
+					],
+					[
+						"u",
+						"uniqueWord"
+					],
+					[
+						"w",
+						"word"
+					],
+					[
+						"pr",
+						"print"
+					],
+					[
+						"sp",
+						"space_n"
+					],
+					[
+						"ma",
+						"maxValue"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"fib",
+						"fib_n"
+					],
+					[
+						"g",
+						"global"
+					],
+					[
+						"PR",
+						"priceV"
+					],
+					[
+						"pri",
+						"priceV"
+					],
+					[
+						"ite",
+						"itemP"
+					],
+					[
+						"e",
+						"extend"
+					],
+					[
+						"p",
+						"priceV"
+					],
+					[
+						"l",
+						"list"
+					],
+					[
+						"space",
+						"spaces"
+					],
+					[
+						"t",
+						"transparent"
+					],
+					[
+						"new",
+						"newNodePtr"
+					],
+					[
+						"head",
+						"headPtr"
+					],
+					[
+						"d",
+						"dir_y"
+					],
+					[
+						"di",
+						"dir_y"
+					],
+					[
+						"ptr",
+						"ptr_c"
+					],
+					[
+						"i",
+						"intToBin"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"nu",
+						"numArray2"
+					],
+					[
+						"num",
+						"numArray"
+					],
+					[
+						"b",
+						"BYTE_SIZE"
+					],
+					[
+						"m",
+						"MAX_BIT"
+					],
+					[
+						"OP",
+						"OP_IP_TO_UNSGN"
+					],
+					[
+						"fil",
+						"fileName"
+					],
+					[
+						"chr",
+						"first_char"
+					],
+					[
+						"C",
+						"CTRL_D"
+					],
+					[
+						"Ch",
+						"change"
+					],
+					[
+						"le",
+						"lenB"
+					],
+					[
+						"cur",
+						"curr_b"
+					],
+					[
+						"str",
+						"strlen"
+					],
+					[
+						"ge",
+						"getNum"
+					],
+					[
+						"out",
+						"outSuffix"
+					],
+					[
+						"tem",
+						"tempFileName"
+					],
+					[
+						"max",
+						"maxDigit"
+					],
+					[
+						"po",
+						"pow_10"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"mo",
+						"months"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Package Control Messages\n========================\n\nGitGutter:\n---------\n\n  Thanks for installing Git Gutter!!!\n  \n  👣 Follow me: @jisaacks\n  \n  \n  😍 Love Git Gutter? Want to support development?\n  \n  I've teamed up with Wes Bos to offer a discount on Sublime Text Power User.\n  \n  Become amazing with Sublime Text with this book + video series. 📖📹\n  \n  Join 3,000 other developers who have increased productivity and become better developers.\n  \n  \n  👉 SublimeTextBook.com/friend/GITGUTTER\n  💰 Use the coupon code GITGUTTER for $10 off 💵\n  \n  This is a fantastic resource - 100% money back guarantee! 🌟\n  \n  ",
+					"settings":
+					{
+						"buffer_size": 616,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Users/_admin_/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 241,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/C.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/Python.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/Python/Python.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/Python/Python.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "pa",
+				"selected_items":
+				[
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 176.0,
+				"history":
+				[
+					"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Cloud/kk/Dropbox/Coding/python/204111_python/test.rb",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/testEnum.c",
+				"/D/Cloud/kk/Dropbox/Coding/python/204111_python/test.py",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Cloud/kk/Dropbox/Coding/python/204111_python/test.ruby",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/Ruby.sublime-build",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-settings",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-build",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/Python/Python.sublime-build",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-package",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/DOT.sublime-settings",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-settings",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+				"/D/Cloud/kk/Downloads/HW11_2/helper.c",
+				"/D/Cloud/kk/Downloads/HW11_2/HW11_2_5XXXXXXXX.c",
+				"/M/Media/Series/Game of Thrones/mp4_to_mkv_1_JUST_CONVERT_OLD.sh",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/glut.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/finalLabExam/finalLab/student/finalLab_5XXXXXXXX.c",
+				"/D/Cloud/kk/Downloads/OperaFB/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_3/student/Makefile",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_3/student/112_HW11_EX.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_3/student/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_3/student/helper.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_3/student/HW11_EX_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_2/key/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_2/key/Makefile",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_2/key/HW11_2_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_2/key/helper.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_2/key/112_HW11_2.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_3/student/HW11_1_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_3/student/112_HW11_1.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_2/key/in_01.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_2/key/in_00.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_1/student/112_HW11_1.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_1/student/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_1/student/helper.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_1/student/HW11_1_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab11/HW11_1/student/Makefile",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/HW10_1_5XXXXXXXX.c",
+				"/D/Cloud/kk/Downloads/OperaFB/HW10_2_5XXXXXXXX.c",
+				"/C/Users/kk/AppData/Local/Temp/Temp1_HW10_1 (2).zip/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/grader/Makefile",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/grader/grader.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/grader/HW10_2_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/recursion/assgn3.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/grader/in_01.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/student/helper.c",
+				"/C/Users/kk/AppData/Local/Temp/Temp1_HW10_2.zip/HW10_2_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/grader/in_02_txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/main.v",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/key/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/student/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/grader/Makefile",
+				"/D/Cloud/kk/Downloads/112_HW10_1.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/grader/grader.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/student/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/main.",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/in_03.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/in_02.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/helper.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/key/Makefile",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/key/helper.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/key/HW10_2_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/key/HW10_2_5XXXXXXXX_POP.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/key/112_HW10_2.h",
+				"/C/Users/kk/AppData/Local/Temp/Temp1_HW10_1 (1).zip/HW10_1_5XXXXXXXX.c",
+				"/D/Cloud/kk/Downloads/OperaFB/HW10_2_5XXXXXXXX.txt",
+				"/C/Users/kk/AppData/Local/Temp/Temp1_HW10_1.zip/HW10_1_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/student/112_HW10_2.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/student/HW10_2_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/student/Makefile",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/student/in_01.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/student/in_02.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/student/HW10_1_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/in_00.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/student/helper.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/student/112_HW10_1.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/stdent/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/key/in_02.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_2/key/in_01.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/112_HW10_1.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/stdent/HW10_1_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/Makefile",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/in_01.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/linkedList.exe",
+				"/D/temp/gitsandboc/my-sandbox/test.c",
+				"/D/temp/gitsandboc/my-sandbox/test2.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab10/HW10_1/key/HW09_1_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/testcase/in_02.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/testcase/in_03.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/testcase/in_04.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/testcase/in_05.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/testcase/in_06.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/testcase/in_07.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/testcase/in_08.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/testcase/in_09.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/testcase/in_10.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/testcase/in_01.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/in_01.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/HW09_2_5XXXXXXXX.c",
+				"/D/Cloud/kk/Google Drive/Work/@CMU/204112/204112_2014_S02/02 Assignments/03 HW/key/HW09/HW09_1/HW09_1_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/out_10.txt",
+				"/C/Users/kk/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/112_HW09_2.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_2/grader/grader.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/grader.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/in_06.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/in_07.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/in_08.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/in_09.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/in_10.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/in_01.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/in_02.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/in_03.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/in_04.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/in_05.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/main.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/Makefile",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/testGraderNoH.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/112_HW09_1.h",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab08/HW08_1/key/HW07_3_5XXXXXXXX.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab09/HW09_1/grader/input.txt",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab08/HW08_2/wordFreq.py",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/Lab08/HW08_2/HW08_2.c",
+				"/D/Cloud/kk/Dropbox/Coding/C/204112/testStruct.c"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 135.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"python",
+					"”",
+					"“",
+					"node_t",
+					"   ",
+					"main.",
+					"main",
+					"  ",
+					"p ",
+					"   ",
+					"  ",
+					" ",
+					"  ",
+					" ",
+					"  ",
+					"   ",
+					"  ",
+					"main",
+					"allWorld",
+					"  ",
+					" ",
+					"  ",
+					" ",
+					"  ",
+					"weightV",
+					"itemP",
+					",",
+					"color",
+					"  ",
+					"sudo ",
+					"”",
+					"“",
+					"pad",
+					"++",
+					"pointer",
+					"∗",
+					"defa",
+					"line en",
+					"*bl",
+					"*br",
+					"*tr",
+					"*tl",
+					"b2",
+					"b1",
+					"printf",
+					"8",
+					"c++"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ruby",
+					"\"",
+					"card_t",
+					" ",
+					"grader.",
+					"grader",
+					" ",
+					"p",
+					" ",
+					"grader",
+					"allWord",
+					" ",
+					"itemB",
+					"",
+					" ",
+					"",
+					"\"",
+					"*",
+					"*bottomLeft",
+					"*bottomRight",
+					"*topRight",
+					"*topLeft",
+					"b",
+					"a"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 616,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										616,
+										616
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/_admin_/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 241,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										146,
+										146
+									]
+								],
+								"settings":
+								{
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										223,
+										7,
+										13,
+										21,
+										58,
+										26,
+										0,
+										0,
+										0,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 240.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,440,2,2,640",
+			"project": "",
+			"replace":
+			{
+				"height": 80.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 625.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 475.0
+			},
+			"select_symbol":
+			{
+				"height": 157.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 490.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 188.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
